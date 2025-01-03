@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @rodolphe3001
+- 🔭 I’m currently working on different technologies/solutions as PowerShell, Terraform, mostly on https://azure.microsoft.com/en-us/
 - 👀 I’m interested to learning something new
 - 🌱 I’m currently learning #Python and #SwiftUI
 - 📫 How to reach me? my email: rodolphe@rodolphe3001.fr 
