@@ -1,14 +1,9 @@
 - 👋 Hi, I’m @rodolphe3001
-<<<<<<< HEAD
-- 👀 I’m interested in #Powershell, #Terraform 
-- 🌱 I’m currently learning #Python
-- 📫 How to reach me by [mail](mailto:rodolphe@rodolphe3001.fr)
-=======
+- 🔭 I’m currently working on different technologies/solutions as [PowerShell](https://github.com/PowerShell/PowerShell), [Terraform](https://www.terraform.io/), mostly on [Azure](https://azure.microsoft.com/en-us/)
 - 👀 I’m interested to learning something new
-- 🌱 I’m currently learning #Python and #SwiftUI
-- 📫 How to reach me? my email: rodolphe@rodolphe3001.fr 
+- 🌱 I’m currently learning [Python](https://www.python.org/) and [SwiftUI](https://developer.apple.com/xcode/swiftui/)
+- 📫 How to reach me? rodolphe@rodolphe3001.fr 
 - ⚡ Fun fact: silly French guy
->>>>>>> origin/main
 
 <!---
 rodolphe3001/rodolphe3001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
