@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rodolphe3001
-- 👀 I’m interested in learning something new
-- 🌱 I’m currently learning Python and SwiftUI
+- 👀 I’m interested to learning something new
+- 🌱 I’m currently learning #Python and #SwiftUI
 - 📫 How to reach me? my email: rodolphe@rodolphe3001.fr 
 - ⚡ Fun fact: silly French guy
 
