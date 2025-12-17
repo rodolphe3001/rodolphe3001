@@ -1,6 +1,11 @@
 - 👋 Hi, I’m @rodolphe3001
 - 🔭 I’m currently working on different technologies/solutions as [PowerShell](https://github.com/PowerShell/PowerShell), [Terraform](https://www.terraform.io/), mostly on [Azure](https://azure.microsoft.com/en-us/)
+<<<<<<< Updated upstream
 - 👀 I’m interested to learning something new, especially learning [C#](https://learn.microsoft.com/en-us/dotnet/csharp/).
+=======
+- 👀 I’m interested to learning something new
+- 🌱 I’m currently learning [SwiftUI](https://developer.apple.com/xcode/swiftui/)
+>>>>>>> Stashed changes
 - 📫 How to reach me? rodolphe@rodolphe3001.fr 
 - ⚡ Fun fact: silly French guy but california lover.
 
